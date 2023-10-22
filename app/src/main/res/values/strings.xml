@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BiałkoTracker</string>
+    
+    <string-array name="items">
+        <item>Mięso</item>
+        <item>Nabiał</item>
+        <item>Owoce</item>
+        <item>Warzywa</item>
+        <item>Inne</item>
+    </string-array>
+</resources>
